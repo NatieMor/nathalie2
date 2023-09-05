@@ -1,7 +1,7 @@
 # README
-ensayo donde se aploca, devise, roles, cambio de navbar.
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Creación de portafolio.
+
+Con estilo scss, con impresiones de algunos proyectos realizados durante el curso.
 
 Things you may want to cover:
 
